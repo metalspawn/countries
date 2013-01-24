@@ -479,6 +479,7 @@ BA:
   names: 
     - "Bosnia and Herzegovina"
     - "Bosnien und Herzegowina"
+    - "Bosnia and Herzegowina"
     - "Bosnie et Herzégovine"
     - "Bosnia y Herzegovina"
   national_destination_code_lengths: 
@@ -5026,6 +5027,7 @@ RE:
     - Réunion
     - Réunion
     - Reunión
+    - Reunion
   national_destination_code_lengths: 
     - 2
   national_number_lengths: 
@@ -6061,6 +6063,7 @@ TW:
   names: 
     - Taiwan
     - Taiwán
+    - "Taiwan, Province of China"
   national_destination_code_lengths: 
     - 2
   national_number_lengths: 
